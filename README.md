@@ -1,8 +1,5 @@
 # Object Storage CDN for Demo
 
-
-# Sudev Company Profile Object Assets
-
 ## List Image for Design Sections
 
 #### Company Profile Content
